@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "set.h"
 
 /* Just a little showcase */
